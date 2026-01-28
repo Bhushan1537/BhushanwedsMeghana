@@ -1,1 +1,2 @@
-Image storage folder
+Images go here
+
